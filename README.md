@@ -14,11 +14,7 @@ Das Erstellen dieser Zeitreihen ermöglicht die Cloudcomputing Platform [Google 
 Hier ist ein Beispiel:
 
 
-[[https://github.com/GeowazM/Satellitenzeitreihen-leicht-gemacht/Satellitenzeitreihen/Rheinisches-Braunkohlerevier_321_tcc.gif | alt=octocat]]
 
-<img src="Satellitenzeitreihen-leicht-gemacht/Satellitenzeitreihen/Rheinisches-Braunkohlerevier_321_tcc.gif" alt="SCP download tab login button" width="90"><br>
-
-
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Landsat Satellitenzeitreihe vom rheinischen Braunkohlerevier](https://raw.githubusercontent.com/GeowazM/Satellitenzeitreihen-leicht-gemacht/main/Satellitenzeireihen/Rheinisches-Braunkohlerevier_321_tcc.gif)
 
 

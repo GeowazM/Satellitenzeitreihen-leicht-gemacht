@@ -16,6 +16,7 @@ Hier ist ein Beispiel:
 
 [[https://github.com/GeowazM/Satellitenzeitreihen-leicht-gemacht/Satellitenzeitreihen/Rheinisches-Braunkohlerevier_321_tcc.gif | alt=octocat]]
 
+<img src="Satellitenzeitreihen-leicht-gemacht/Satellitenzeitreihen/Rheinisches-Braunkohlerevier_321_tcc.gif" alt="SCP download tab login button" width="90"><br>
 
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)

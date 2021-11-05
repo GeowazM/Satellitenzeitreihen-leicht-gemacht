@@ -11,10 +11,7 @@ Das Erstellen dieser Zeitreihen ermöglicht die Cloudcomputing Platform [Google 
 
 
 
-Hier ist ein Beispiel:
-
-
-
+Hier ist ein Beispiel auf dem das Rheinischen Braunkohlerevier von 1984 bis 2020 zu sehen ist.
 ![Landsat Satellitenzeitreihe vom rheinischen Braunkohlerevier](https://raw.githubusercontent.com/GeowazM/Satellitenzeitreihen-leicht-gemacht/main/Satellitenzeireihen/Rheinisches-Braunkohlerevier_321_tcc.gif)
 
 

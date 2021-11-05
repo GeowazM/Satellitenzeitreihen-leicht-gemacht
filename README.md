@@ -13,6 +13,6 @@ Das Erstellen dieser Zeitreihen ermöglicht die Cloudcomputing Platform [Google 
 
 Hier ist ein Beispiel:
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text]( Satellitenzeitreihen-leicht-gemacht/Satellitenzeireihen/Rheinisches-Braunkohlerevier_321_tcc.gif )
 
 

@@ -78,7 +78,7 @@ The constantly increase of UNESCO designated sites can be shown very well on the
 ---
 
 <div align="center">
-<img src="/images/rgeo_unesco-chair_uni-hd_v2.jpg" width="750" alt="rgeo Heidelberg University of Education"/>
+<img src="/Bilder/rgeo_unesco-chair_uni-hd_v2.jpg" width="750" alt="rgeo Heidelberg University of Education"/>
 </div>
 
 

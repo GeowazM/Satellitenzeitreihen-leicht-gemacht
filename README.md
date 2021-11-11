@@ -1,6 +1,8 @@
-# Satellitenzeitreihen leicht gemacht
-Hier befindet sich eine Sammlung an Satellitenzeitreihen, die mit Hilfe von leafmap, geemap &amp; streamlit schnell und einfach in verschiedenen Bandkombinationen erstellt wurden und mir Hilfe des GIF Scrubber Add-Ons visuell interpretiert werden können.
+# <div align="center"> Satellitenzeitreihen leicht gemacht </div>
+## <div align="center"> Einfach selber machen mit *Streamlit Geospatial* </div>
 
+
+Hier finden Sie eine Sammlung an Satellitenzeitreihen, die mit Hilfe von leafmap, geemap &amp; streamlit schnell und einfach in verschiedenen Bandkombinationen erstellt wurden und mit Hilfe des GIF Scrubber Add-Ons visuell interpretiert werden können.
 
 
 
@@ -10,9 +12,12 @@ Das Erstellen dieser Zeitreihen ermöglicht die Cloudcomputing Platform [Google 
 
 <br>
 
+<p align="center">
+  <img src="/Satellitenzeireihen/Rheinisches-Braunkohlerevier_321_tcc.gif" width="800" alt="Landsat Satellitenzeitreihe vom Rheinischen Braunkohlerevier"/>
+</p>
 
-Hier ist ein Beispiel auf dem das Rheinischen Braunkohlerevier von 1984 bis 2020 zu sehen ist.
-![Landsat Satellitenzetreihe vom rheinischen Braunkohlerevier](https://raw.githubusercontent.com/GeowazM/Satellitenzeitreihen-leicht-gemacht/main/Satellitenzeireihen/Rheinisches-Braunkohlerevier_321_tcc.gif)
+###### <div align="center"> Figure 1: Landsat Satellitenzeitreihe vom Rheinischen Braunkohlerevier</div>
+
 
 
 
@@ -20,21 +25,15 @@ Hier ist ein Beispiel auf dem das Rheinischen Braunkohlerevier von 1984 bis 2020
 Folgen Sie dem *Demovideo* auf der [Streamlit for Geospatial Applications](https://streamlit.gishub.org/) Seite um eine Satellitenzeitreihe Ihres Untersuchungsgebietes zu erstellen.
 <br>
 
+
 <br>
-Anschließend können Sie mit wenigen Klicks die Erweiterung (Add-on) *[GIF Scrubber](https://chrome.google.com/webstore/detail/gif-scrubber/gbdacbnhlfdlllckelpdkgeklfjfgcmp?hl=en)* installieren, welches aktuell ausschließlich mit dem Browser *Google Chrome* funktioniert.
+Anschließend können Sie mit wenigen Klicks die Google Chrome Erweiterung *GIF Scrubber* installieren, welches aktuell ausschließlich mit dem Browser *Google Chrome* funktioniert.
 <br>
 Wenn Sie *GIF Scrubber* installiert haben können Sie in diesem github Verzeichnis unter dem Ordner *Satellitenzeitreihen* eine Reihe an Beispielen finden. Klicken Sie bspw. auf *Rheinisches-Braunkohlerevier_432_fcc.gif* und es öffnet sich eine Animation. Mit einem Rechtsklick.... 
 Im Aufbau
 
 
-
-
-
-
-
-
-# <div align="center"> The Network of UNESCO Sites </div>
-## <div align="center"> Changes and Patterns visualized with Cartograms </div>
+GIF Scrubber: https://chrome.google.com/webstore/detail/gif-scrubber/gbdacbnhlfdlllckelpdkgeklfjfgcmp?hl=en
 
 
 ### What we will learn
@@ -74,7 +73,7 @@ The constantly increase of UNESCO designated sites can be shown very well on the
 <br>
 
 <p align="center">
-  <img src="/Satellitenzeitreihen/" width="800" alt="Map of global distribution of UNESCO sites"/>
+  <img src="/Satellitenzeireihen/Rheinisches-Braunkohlerevier_321_tcc.gif" width="800" alt="Map of global distribution of UNESCO sites"/>
 </p>
 
 ###### <div align="center"> Figure 1: Map of the global distribution of UNESCO Global Geoparks, Biosphere Reserves and World Heritage Sites within the UN subregions </div>

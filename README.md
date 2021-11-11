@@ -72,10 +72,13 @@ The constantly increase of UNESCO designated sites can be shown very well on the
 
 <br>
 
-<p align="center">
-  <img src="/Satellitenzeireihen/Rheinisches-Braunkohlerevier_321_tcc.gif" width="800" alt="Map of global distribution of UNESCO sites"/>
-</p>
+<br/>
 
-###### <div align="center"> Figure 1: Map of the global distribution of UNESCO Global Geoparks, Biosphere Reserves and World Heritage Sites within the UN subregions </div>
+
+---
+
+<div align="center">
+<img src="/images/rgeo_unesco-chair_uni-hd_v2.jpg" width="750" alt="rgeo Heidelberg University of Education"/>
+</div>
 
 

@@ -35,6 +35,9 @@ Im Aufbau
 
 GIF Scrubber: https://chrome.google.com/webstore/detail/gif-scrubber/gbdacbnhlfdlllckelpdkgeklfjfgcmp?hl=en
 
+<br/><br/><br/>
+
+---
 
 ### What we will learn
 * How to plot data in QGIS

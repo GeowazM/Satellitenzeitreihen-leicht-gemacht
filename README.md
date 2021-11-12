@@ -2,12 +2,44 @@
 ## <div align="center"> Einfach selber machen mit *Streamlit Geospatial* </div>
 
 
-Hier finden Sie eine Sammlung an Satellitenzeitreihen, die mit Hilfe von leafmap, geemap &amp; streamlit schnell und einfach in verschiedenen Bandkombinationen erstellt wurden und mit Hilfe des GIF Scrubber Add-Ons visuell interpretiert werden können.
+Hier finden Sie eine Anleitung wie Sie mit Hilfe von [Streamlit for Geospatial Applications](https://streamlit.gishub.org/) eigenständig schnell und einfach Satellitenzeitreihen in verschiedenen Bandkombinationen erstellen können. Darüber hinaus erklären wir Ihnen wie Sie mit Hilfe der Google Chrome Erweiterung *GIF Scrubber* diese Satellitenzeitreihen genauer unter die Lupe nehmen können, um den Wandel auf der Erdoberfläche visuell interpretieren zu können.
+<br>
 
+---
+
+<br>
+
+
+Für die Erstellung von Satellitenzeitreihen nutzen Sie folgende Web Anwendungen: 
+- Google Chrome inklusive der Erweiterung *GIF Scrubber* 
+- Streamlit for Geospatial Applications (1. Release November 2021) 
+<br>
+
+---
+
+<br>
+
+Um die visuelle Interpretation der Satellitenzeitreihe voll ausschöpfen zu können empfehlen wir das hinzufügen der Google Chrome Erweiterung *GIF Scrubber*:
+- Öffnen Sie dafür *GIF Scrubber* im Google Chrome Web Store (hier der Link)
+- Klicken Sie auf *Zu Chrome hinzufügen*
+
+<br>
+Die Erweiterung ist jetzt für Ihren Google Chrome Browser verfügbar.
+Um zu prüfen ob die Erweiterung verfügbar ist, dürfen Sie mit der rechten Maustaste Abbildung 1 (siehe unten) anklicken. Wenn die Erweiterung erfolgreich hinzugefügt wurde erscheint die Option *GIF Scrubber* mit diesem Logo (Bild). Klicken Sie diese Option an.
+
+<br> 
+Notiz an mich: --> Video wie die Chrome Erweiterung hinzugefügt wird und an dem Rheinischen Braunkohlerevier getestet wird.
+
+<br>
+
+---
+<br>
 
 
 Mit [Streamlit for Geospatial Applications](https://streamlit.gishub.org/) lassen sich schnell und bequem Satellitenzeitreihen von überall auf der Erde erstellen. 
 Das Erstellen dieser Zeitreihen ermöglicht die Cloudcomputing Platform [Google Earth Engine](https://earthengine.google.com/) und die Python Bibliothek [geemap](https://geemap.org/).  Mehr Informationen finden Sie [hier](https://streamlit.gishub.org/).
+Ein Beispiel einer solchen Satellitenzeitreihe sehen Sie in Abbildung 1, dass die Veränderungen der Landschaft im Rheinischen Braunkohlerevier zwischen 1984 und 2020 zeigt.
+
 
 
 <br>
@@ -16,8 +48,21 @@ Das Erstellen dieser Zeitreihen ermöglicht die Cloudcomputing Platform [Google 
   <img src="/Satellitenzeireihen/Rheinisches-Braunkohlerevier_321_tcc.gif" width="800" alt="Landsat Satellitenzeitreihe vom Rheinischen Braunkohlerevier"/>
 </p>
 
-###### <div align="center"> Figure 1: Landsat Satellitenzeitreihe vom Rheinischen Braunkohlerevier</div>
+###### <div align="center"> Abbildung 1: Landsat Satellitenzeitreihe vom Rheinischen Braunkohlerevier für den Zeitraum 1984 - 2020</div>
 
+<br>
+<br>
+
+Wir können uns diese Satellitenzeitreihe genauer anschauen.
+
+<br>
+<br>
+
+
+---
+
+
+## <div align="center"> Satellitenzeitreihe selber machen</div>
 
 
 

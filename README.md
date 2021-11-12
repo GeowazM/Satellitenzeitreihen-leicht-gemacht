@@ -2,7 +2,7 @@
 ## <div align="center"> Einfach selber machen mit *Streamlit Geospatial* </div>
 
 
-Hier finden Sie eine Anleitung wie Sie mit Hilfe von [Streamlit for Geospatial Applications](https://streamlit.gishub.org/) eigenständig schnell und einfach Satellitenzeitreihen in verschiedenen Bandkombinationen erstellen können. Darüber hinaus erklären wir Ihnen wie Sie mit Hilfe der Google Chrome Erweiterung *GIF Scrubber* diese Satellitenzeitreihen genauer unter die Lupe nehmen können, um den Wandel auf der Erdoberfläche visuell interpretieren zu können.
+Hier finden Sie ein Tutorial wir Sie mit Streamlit for Geospatial Applications schnell und bequem Satellitenzeitreihen von überall auf der Erde erstellen können. Darüber hinaus erklären wir Ihnen wie Sie mit Hilfe der Google Chrome Erweiterung *GIF Scrubber* diese Satellitenzeitreihen genauer unter die Lupe nehmen können, um den Wandel auf der Erdoberfläche noch besser interpretieren zu können.
 <br>
 
 ---
@@ -10,8 +10,8 @@ Hier finden Sie eine Anleitung wie Sie mit Hilfe von [Streamlit for Geospatial A
 <br>
 
 
-Für die Erstellung von Satellitenzeitreihen nutzen Sie folgende Web Anwendungen: 
-- Google Chrome inklusive der Erweiterung *GIF Scrubber* 
+Für die Erstellung von Satellitenzeitreihen nutzen wir folgende Web Anwendungen: 
+- Google Chrome Web-Browser inklusive der Erweiterung *GIF Scrubber* 
 - Streamlit for Geospatial Applications (1. Release November 2021) 
 <br>
 
@@ -25,7 +25,8 @@ Um die visuelle Interpretation der Satellitenzeitreihe voll ausschöpfen zu kön
 
 <br>
 Die Erweiterung ist jetzt für Ihren Google Chrome Browser verfügbar.
-Um zu prüfen ob die Erweiterung verfügbar ist, dürfen Sie mit der rechten Maustaste Abbildung 1 (siehe unten) anklicken. Wenn die Erweiterung erfolgreich hinzugefügt wurde erscheint die Option *GIF Scrubber* mit diesem Logo (Bild). Klicken Sie diese Option an.
+Um zu prüfen ob die Erweiterung verfügbar ist, klicken Sie mit der rechten Maustaste auf die Abbildung 1 (siehe unten). Wenn die Erweiterung erfolgreich hinzugefügt wurde erscheint die Option *GIF Scrubber* mit diesem Logo (Bild). Klicken Sie diese Option an. 
+Wenn das hinzufügen erfolgreich war öffnet sich ein neues Fenster in dem Sie die Satellitenzeitreihe kontrollieren können. Testen Sie die Funktionen. Mit (!!!) können Sie die einzelnen Jahre begutachten und mit (!!!) können Sie die Zeitreihe als einzelne Bilder herunterladen.
 
 <br> 
 Notiz an mich: --> Video wie die Chrome Erweiterung hinzugefügt wird und an dem Rheinischen Braunkohlerevier getestet wird.

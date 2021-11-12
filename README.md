@@ -29,7 +29,9 @@ Um zu prüfen ob die Erweiterung verfügbar ist, klicken Sie mit der rechten Mau
 Wenn das hinzufügen erfolgreich war öffnet sich ein neues Fenster in dem Sie die Satellitenzeitreihe kontrollieren können. Testen Sie die Funktionen. Mit (!!!) können Sie die einzelnen Jahre begutachten und mit (!!!) können Sie die Zeitreihe als einzelne Bilder herunterladen.
 
 <br> 
-Notiz an mich: --> Video wie die Chrome Erweiterung hinzugefügt wird und an dem Rheinischen Braunkohlerevier getestet wird.
+Notiz an mich: 
+- Video wie die Chrome Erweiterung hinzugefügt wird und an dem Rheinischen Braunkohlerevier getestet wird.
+- Anleitung Erweiterung Google Chrome https://support.google.com/chrome_webstore/answer/2664769?hl=de
 
 <br>
 

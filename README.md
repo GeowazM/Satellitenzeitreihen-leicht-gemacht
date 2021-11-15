@@ -2,7 +2,7 @@
 ## <div align="center"> Einfach selber machen mit *Streamlit Geospatial* </div>
 
 
-Hier finden Sie ein Tutorial wir Sie mit Streamlit for Geospatial Applications schnell und bequem Satellitenzeitreihen von überall auf der Erde erstellen können. Darüber hinaus erklären wir Ihnen wie Sie mit Hilfe der Google Chrome Erweiterung *GIF Scrubber* diese Satellitenzeitreihen genauer unter die Lupe nehmen können, um den Wandel auf der Erdoberfläche noch besser interpretieren zu können.
+Hier finden Sie ein Tutorial wie Sie mit *Streamlit for Geospatial Applications* schnell und bequem Satellitenzeitreihen von überall auf der Erde erstellen können. Darüber hinaus erklären wir Ihnen wie Sie mit Hilfe der Browser Erweiterung *GIF Scrubber* diese Satellitenzeitreihen genauer unter die Lupe nehmen können, um den Wandel auf der Erdoberfläche noch besser verstehen zu können.
 <br>
 Ein Beispiel einer solchen Satellitenzeitreihe sehen Sie in Abbildung 1, dass die Veränderungen der Landschaft im Rheinischen Braunkohlerevier zwischen 1984 und 2020 zeigt.
 
@@ -22,14 +22,24 @@ Ein Beispiel einer solchen Satellitenzeitreihe sehen Sie in Abbildung 1, dass di
 <br>
 
 ## <div align="center"> Eine Satellitenzeitreihe selber machen</div>
-
+<br>
+<br>
 <br>
 
+Überblick
+1. Die Browser Erweiterung *GIF Scrubber* nutzen
+2. Mit *Streamlit Geospatial* Satellitenzeitreihen selber machen
+3. Mit anderen Bändern mehr sehen
+4. Weitere Anwendungsbeispiele
 
+
+<br>
+<br>
 
 Für die Erstellung von Satellitenzeitreihen nutzen wir folgende Web Anwendungen: 
 1. Google Chrome Web-Browser inklusive der Erweiterung *GIF Scrubber* 
 2. *Streamlit for Geospatial Applications* (1. Release November 2021) 
+3. 
 <br>
 
 ---

@@ -63,7 +63,7 @@ Um die visuelle Interpretation der Satellitenzeitreihe voll ausschöpfen zu kön
 Die Erweiterung ist jetzt für Ihren Google Chrome bzw. Firefox Browser verfügbar.<br>
 <br>
 
-#### Testen Sie den *GIF Scrubbers*
+#### Testen Sie den *GIF Scrubber*
 
 Um zu prüfen ob die Erweiterung verfügbar ist, klicken Sie mit der rechten Maustaste auf die Abbildung 1 (siehe oben). Wenn die Erweiterung erfolgreich hinzugefügt wurde erscheint die Option *GIF Scrubber* mit diesem Logo (Bild). Klicken Sie diese Option an. <br>
 Es öffnet sich ein neues Fenster, in dem Sie die Satellitenzeitreihe kontrollieren können. Testen Sie die Funktionen. Mit (!!!) können Sie die einzelnen Jahre begutachten und mit (!!!) können Sie die Zeitreihe als einzelne Bilder herunterladen.<br>

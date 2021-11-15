@@ -23,8 +23,7 @@ Ein Beispiel einer solchen Satellitenzeitreihe sehen Sie in Abbildung 1, dass di
 
 ## <div align="center"> Eine Satellitenzeitreihe selber machen</div>
 <br>
-<br>
-<br>
+
 
 Überblick
 1. Die Browser Erweiterung *GIF Scrubber* nutzen
@@ -37,24 +36,31 @@ Ein Beispiel einer solchen Satellitenzeitreihe sehen Sie in Abbildung 1, dass di
 <br>
 
 Für die Erstellung von Satellitenzeitreihen nutzen wir folgende Web Anwendungen: 
-1. Google Chrome Web-Browser inklusive der Erweiterung *GIF Scrubber* 
-2. *Streamlit for Geospatial Applications* (1. Release November 2021) 
-3. 
+1. Web-Browser mit einer Erweiterung für GIF Animationen
+    - Google Chrome Web-Browser inklusive der Erweiterung *GIF Scrubber*  oder der
+    - Firefox Web-Browser inklusive der Erweiterung *GIF remote sensing* 
+3. *Streamlit for Geospatial Applications* (1. Release November 2021) 
+
 <br>
 
 ---
 
 </br>
 
-### 1. Vorbereitung der Google Chrome Erweiterung *GIF Scrubbers*
+### 1. Hinzufügen der Browser Erweiterung *GIF Scrubbers* bzw. *GIF remote sensing*
 
+Um die visuelle Interpretation der Satellitenzeitreihe voll ausschöpfen zu können empfehlen wir das hinzufügen der Erweiterung *GIF Scrubber* bzw. dessen Äquivalent *GIF remote sensing*:
+- Für Google Chrome
+    - Öffnen Sie dafür *GIF Scrubber* im Google Chrome Web Store (hier der Link)
+    - Klicken Sie auf *Zu Chrome hinzufügen*
 
-Um die visuelle Interpretation der Satellitenzeitreihe voll ausschöpfen zu können empfehlen wir das hinzufügen der Google Chrome Erweiterung *GIF Scrubber*:
-- Öffnen Sie dafür *GIF Scrubber* im Google Chrome Web Store (hier der Link)
-- Klicken Sie auf *Zu Chrome hinzufügen*
+- Für Firefox
+    - Öffnen Sie die *GIF remote sensing* Erweiterung im Mozilla Add-ons Store ([hier der Link](https://addons.mozilla.org/de/firefox/addon/gif-remote-sensing/))
+    - Klicken Sie auf *Zu Firefox hinzufügen* und bestätigen Sie den Button *Zulassen*
+
 
 <br>
-Die Erweiterung ist jetzt für Ihren Google Chrome Browser verfügbar.<br>
+Die Erweiterung ist jetzt für Ihren Google Chrome bzw. Firefox Browser verfügbar.<br>
 <br>
 
 #### Testen Sie den *GIF Scrubbers*

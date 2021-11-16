@@ -6,8 +6,6 @@ Hier finden Sie ein Tutorial wie Sie mit *Streamlit for Geospatial Applications*
 <br>
 Ein Beispiel einer solchen Satellitenzeitreihe sehen Sie in Abbildung 1, dass die Veränderungen der Landschaft im Rheinischen Braunkohlerevier zwischen 1984 und 2020 zeigt.
 
-
-
 <br>
 
 <p align="center">
@@ -78,7 +76,7 @@ Es öffnet sich ein neues Fenster, in dem Sie die Satellitenzeitreihe kontrollie
 <br>
 
 <p align="center">
-  <img src="/Bilder/gif-scrubber/buttons_gif_scrubber_overview.PNG" width=520 alt="GIF Scrubber window">
+  <img src="/Bilder/gif-scrubber/buttons_gif_scrubber_overview.PNG" width=550 alt="GIF Scrubber window">
 </p>
 
 ###### <div align="center"> Abbildung 2: Einblick in die Nutzeroberfläche der GIF Scrubbber Erweiterung</div>
@@ -148,24 +146,29 @@ Das Erstellen dieser Zeitreihen ermöglicht die Cloudcomputing Platform [Google 
 
 ### 4. Mehr thematische Anwendungsbeispiele
 
+<br>
 
 <p align="center">
-  <img src="/Satellitenzeireihen/Rheinisches-Braunkohlerevier_321_tcc.gif" width="800" alt="Landsat Satellitenzeitreihe vom Rheinischen Braunkohlerevier"/>
+  <img src="/Anwendungsbeispiele/Iran_Urmiasee/Lake-Urmia_543.gif" width="500" alt="Landsat Satellitenzeitreihe vom Rheinischen Braunkohlerevier"/>
 </p>
 
-###### <div align="center"> Abbildung 1: Landsat Satellitenzeitreihe vom Rheinischen Braunkohlerevier für den Zeitraum 1984 - 2020</div>
+###### <div align="center"> Abbildung ???: Landsat Satellitenzeitreihe vom Urmiasee im Nordsosten des Irans für den Zeitraum 1984 - 2020</div>
 
-<br/>
-
+<br>
 
 <p align="center">
-  <img src="/Satellitenzeireihen/Rheinisches-Braunkohlerevier_321_tcc.gif" width="800" alt="Landsat Satellitenzeitreihe vom Rheinischen Braunkohlerevier"/>
+  <img src="/Anwendungsbeispiele/Schweiz_Grosse-Aletschgletscher/Aletsch_654.gif" width="500" alt="Landsat Satellitenzeitreihe vom Rheinischen Braunkohlerevier"/>
 </p>
 
-###### <div align="center"> Abbildung 1: Landsat Satellitenzeitreihe vom Rheinischen Braunkohlerevier für den Zeitraum 1984 - 2020</div>
+###### <div align="center"> Abbildung ???: Landsat Satellitenzeitreihe vom Urmiasee im Nordsosten des Irans für den Zeitraum 1984 - 2020</div>
 
+<br>
 
+<p align="center">
+  <img src="/Anwendungsbeispiele/UAE_Dubai/Dubai-small_432_fcc.gif" width="500" alt="Landsat Satellitenzeitreihe vom Rheinischen Braunkohlerevier"/>
+</p>
 
+###### <div align="center"> Abbildung ???: Landsat Satellitenzeitreihe vom Urmiasee im Nordsosten des Irans für den Zeitraum 1984 - 2020</div>
 
 
 

@@ -69,12 +69,16 @@ Die Erweiterung ist jetzt für Ihren Google Chrome bzw. Firefox Browser verfügb
 #### Testen Sie den *GIF Scrubber*
 
 Um zu prüfen ob die Erweiterung verfügbar ist, klicken Sie mit der rechten Maustaste auf die Abbildung 1 (siehe oben). Wenn die Erweiterung erfolgreich hinzugefügt wurde erscheint die Option *GIF Scrubber* mit diesem Logo (Bild). Klicken Sie diese Option an. <br>
-Es öffnet sich ein neues Fenster, in dem Sie die Satellitenzeitreihe kontrollieren können. Testen Sie die Funktionen. Mit (!!!) können Sie die einzelnen Jahre begutachten und mit (!!!) können Sie die Zeitreihe als einzelne Bilder herunterladen.
+Es öffnet sich ein neues Fenster, in dem Sie die Satellitenzeitreihe kontrollieren können. Testen Sie die Funktionen. Mit der Option <img src="/Bilder/gif-scrubber/buttons_gif_scrubber_explode.PNG" alt="GIF Scrubber option download"> können Sie die einzelnen Jahre begutachten und mit dem Button <img src="/Bilder/gif-scrubber/buttons_gif_scrubber_download.PNG" alt="GIF Scrubber option download"> können Sie die Zeitreihe als einzelne Bilder herunterladen. Versuchen Sie es!
 <br>
 
 <p align="center">
-  <img src="/Bilder/buttons_gif_scrubber.PNG" alt="GIF Scrubber option">
+  <img src="/Bilder/gif-scrubber/buttons_gif_scrubber_overview.PNG" width=520 alt="GIF Scrubber window">
 </p>
+
+###### <div align="center"> Abbildung 2: Einblick in die Nutzeroberfläche der GIF Scrubbber Erweiterung</div>
+
+<br> 
 
 Ein Videotutorial dazu finden sie hier(!!!).
 

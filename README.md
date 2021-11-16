@@ -86,6 +86,7 @@ Ein Videotutorial dazu finden sie hier(!!!).
 
 Notiz an mich: 
 - Video wie die Chrome Erweiterung hinzugefügt wird und an dem Rheinischen Braunkohlerevier getestet wird.
+- Irgendwo muss der Hinweis hin, dass es das nur auf englisch gibt
 - Anleitung Erweiterung Google Chrome https://support.google.com/chrome_webstore/answer/2664769?hl=de
 GIF Scrubber: https://chrome.google.com/webstore/detail/gif-scrubber/gbdacbnhlfdlllckelpdkgeklfjfgcmp?hl=en
 
@@ -96,10 +97,6 @@ GIF Scrubber: https://chrome.google.com/webstore/detail/gif-scrubber/gbdacbnhlfd
 <br>
 
 ### 2. Erstellen einer Satellitenzeitreihe mit *Streamlit for Geospatial Applications*
-
-Irgendwo muss der Hinweis hin, dass es das nur auf englisch gibt
-
-<br>
 
 Mit [Streamlit for Geospatial Applications](https://streamlit.gishub.org) lassen sich schnell und bequem Satellitenzeitreihen von überall auf der Erde erstellen. 
 Wenn Sie den Link zur Web-Anwendung öffnen (siehe unten) kommen Sie auf die Startseite (siehe Abbildung 3). Wählen Sie im Menü auf der linken Seite die Option "*Create Timelapse*".

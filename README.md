@@ -1,5 +1,5 @@
-# <div align="center"> Satellitenzeitreihen leicht gemacht </div>
-## <div align="center"> Einfach selber machen mit *Streamlit Geospatial* </div>
+# <div align="center"> Neue Perspektiven auf die Welt im Wandel </div>
+## <div align="center"> Satellitenzeitreihen selbst gemacht mit *Streamlit Geospatial* </div>
 
 
 Hier finden Sie ein Tutorial wie Sie mit *Streamlit for Geospatial Applications* schnell und bequem Satellitenzeitreihen von überall auf der Erde erstellen können. Darüber hinaus erklären wir Ihnen wie Sie mit Hilfe der Browser Erweiterung *GIF Scrubber* diese Satellitenzeitreihen genauer unter die Lupe nehmen können, um den Wandel auf der Erdoberfläche noch besser verstehen zu können.

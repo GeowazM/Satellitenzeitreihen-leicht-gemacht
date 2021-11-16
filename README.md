@@ -28,8 +28,8 @@ Ein Beispiel einer solchen Satellitenzeitreihe sehen Sie in Abbildung 1, dass di
 Überblick
 1. Die Browser Erweiterung *GIF Scrubber* nutzen
 2. Mit *Streamlit Geospatial* Satellitenzeitreihen selber machen
-3. Mit anderen Bändern mehr sehen
-4. Weitere Anwendungsbeispiele
+3. Mit weiteren Bändern den Blick erweitern
+4. Mehr thematische Anwendungsbeispiele
 
 
 <br>
@@ -60,7 +60,10 @@ Um die visuelle Interpretation der Satellitenzeitreihe voll ausschöpfen zu kön
 
 
 <br>
-Die Erweiterung ist jetzt für Ihren Google Chrome bzw. Firefox Browser verfügbar.<br>
+
+Die Erweiterung ist jetzt für Ihren Google Chrome bzw. Firefox Browser verfügbar.
+
+<br>
 <br>
 
 #### Testen Sie den *GIF Scrubber*
@@ -70,6 +73,7 @@ Es öffnet sich ein neues Fenster, in dem Sie die Satellitenzeitreihe kontrollie
 Ein Videotutorial dazu finden sie hier(!!!).
 
 <br> 
+
 Notiz an mich: 
 - Video wie die Chrome Erweiterung hinzugefügt wird und an dem Rheinischen Braunkohlerevier getestet wird.
 - Anleitung Erweiterung Google Chrome https://support.google.com/chrome_webstore/answer/2664769?hl=de
@@ -88,10 +92,17 @@ GIF Scrubber: https://chrome.google.com/webstore/detail/gif-scrubber/gbdacbnhlfd
 Mit [Streamlit for Geospatial Applications](https://streamlit.gishub.org) lassen sich schnell und bequem Satellitenzeitreihen von überall auf der Erde erstellen. 
 
 <br>
-Folgen Sie dem *Demovideo* auf der [Streamlit for Geospatial Applications](https://streamlit.gishub.org) Seite um eine Satellitenzeitreihe Ihres Untersuchungsgebietes zu erstellen.
+
+###### <div align="center"> Zur Web-Anwendung kommen Sie über diesen Link: </div> <br>
+###### <div align="center"> [Streamlit for Geospatial Applications öffnen](https://streamlit.gishub.org) </div>
+
 <br>
 
-Das Erstellen dieser Zeitreihen ermöglicht die Cloudcomputing Platform [Google Earth Engine](https://earthengine.google.com) und die Python Bibliothek [geemap](https://geemap.org/).  Mehr Informationen finden Sie [hier](https://streamlit.gishub.org/).
+Folgen Sie dem *Demovideo* auf der [Streamlit for Geospatial Applications](https://streamlit.gishub.org) Seite um eine Satellitenzeitreihe Ihres Untersuchungsgebietes zu erstellen.
+
+<br>
+
+Das Erstellen dieser Zeitreihen ermöglicht die Cloudcomputing Platform [Google Earth Engine](https://earthengine.google.com) und die Python Bibliothek [geemap](https://geemap.org/).  Mehr Informationen zu den technischen Hintergründen finden Sie [hier](https://streamlit.gishub.org/).
 <br>
 
 

@@ -149,7 +149,7 @@ Das Erstellen dieser Zeitreihen ermöglicht die Cloudcomputing Platform [Google 
 <br>
 
 <p align="center">
-  <img src="/Anwendungsbeispiele/Iran_Urmiasee/Lake-Urmia_543.gif" width="500" alt="Landsat Satellitenzeitreihe vom Rheinischen Braunkohlerevier"/>
+  <img src="/Anwendungsbeispiele/Iran_Urmiasee/Lake-Urmia_543.gif" width="500" alt="Landsat Satellitenzeitreihe vom Urmiasee"/>
 </p>
 
 ###### <div align="center"> Abbildung ???: Landsat Satellitenzeitreihe vom Urmiasee im Nordsosten des Irans für den Zeitraum 1984 - 2020</div>
@@ -157,18 +157,18 @@ Das Erstellen dieser Zeitreihen ermöglicht die Cloudcomputing Platform [Google 
 <br>
 
 <p align="center">
-  <img src="/Anwendungsbeispiele/Schweiz_Grosse-Aletschgletscher/Aletsch_654.gif" width="500" alt="Landsat Satellitenzeitreihe vom Rheinischen Braunkohlerevier"/>
+  <img src="/Anwendungsbeispiele/Schweiz_Grosse-Aletschgletscher/Aletsch_654.gif" width="500" alt="Landsat Satellitenzeitreihe vom Grossen Aletschgletscher"/>
 </p>
 
-###### <div align="center"> Abbildung ???: Landsat Satellitenzeitreihe vom Urmiasee im Nordsosten des Irans für den Zeitraum 1984 - 2020</div>
+###### <div align="center"> Abbildung ???: Landsat Satellitenzeitreihe vom Grossen Aletschgletscher</div>
 
 <br>
 
 <p align="center">
-  <img src="/Anwendungsbeispiele/UAE_Dubai/Dubai-small_432_fcc.gif" width="500" alt="Landsat Satellitenzeitreihe vom Rheinischen Braunkohlerevier"/>
+  <img src="/Anwendungsbeispiele/UAE_Dubai/Dubai-small_432_fcc.gif" width="600" alt="Landsat Satellitenzeitreihe von Dubai"/>
 </p>
 
-###### <div align="center"> Abbildung ???: Landsat Satellitenzeitreihe vom Urmiasee im Nordsosten des Irans für den Zeitraum 1984 - 2020</div>
+###### <div align="center"> Abbildung ???: Landsat Satellitenzeitreihe von Dubai</div>
 
 
 

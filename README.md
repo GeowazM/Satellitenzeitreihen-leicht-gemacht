@@ -52,6 +52,8 @@ Für die Erstellung von Satellitenzeitreihen nutzen wir folgende Web Anwendungen
 - Erweiterung GIF Scrubber bzw. GIF remote sensing hinzufügen
 - Erweiterung testen
 
+<br>
+
 #### Hinzufügen der Browser Erweiterung *GIF Scrubbers* bzw. *GIF remote sensing*
 
 Um die visuelle Interpretation der Satellitenzeitreihe voll ausschöpfen zu können empfehlen wir das hinzufügen der Erweiterung *GIF Scrubber* bzw. dessen Äquivalent *GIF remote sensing*:
@@ -67,7 +69,6 @@ Um die visuelle Interpretation der Satellitenzeitreihe voll ausschöpfen zu kön
 <br>
 
 Die Erweiterung ist jetzt für Ihren Google Chrome bzw. Firefox Browser verfügbar.
-
 <br>
 
 #### Testen Sie den *GIF Scrubber*

@@ -165,6 +165,10 @@ Das Erstellen dieser Zeitreihen ermöglicht die Cloudcomputing Platform [Google 
 ###### <div align="center"> Abbildung 1: Landsat Satellitenzeitreihe vom Rheinischen Braunkohlerevier für den Zeitraum 1984 - 2020</div>
 
 
+
+
+
+
 ---
 
 <div align="center">

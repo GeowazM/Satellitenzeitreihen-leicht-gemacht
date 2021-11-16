@@ -28,7 +28,7 @@ Ein Beispiel einer solchen Satellitenzeitreihe sehen Sie in Abbildung 1, dass di
 Überblick
 1. Die Browser Erweiterung *GIF Scrubber* nutzen
 2. Mit *Streamlit Geospatial* Satellitenzeitreihen selber machen
-3. Mit weiteren Bändern den Blick erweitern
+3. Mit zusätzlichen Bändern den Blick erweitern
 4. Mehr thematische Anwendungsbeispiele
 
 
@@ -137,7 +137,7 @@ Das Erstellen dieser Zeitreihen ermöglicht die Cloudcomputing Platform [Google 
 ---
 
 
-### 3. Mit weiteren Bändern den Blick erweitern
+### 3. Mit zusätzlichen Bändern den Blick erweitern
 
 
 <br/>
@@ -147,6 +147,22 @@ Das Erstellen dieser Zeitreihen ermöglicht die Cloudcomputing Platform [Google 
 
 
 ### 4. Mehr thematische Anwendungsbeispiele
+
+
+<p align="center">
+  <img src="/Satellitenzeireihen/Rheinisches-Braunkohlerevier_321_tcc.gif" width="800" alt="Landsat Satellitenzeitreihe vom Rheinischen Braunkohlerevier"/>
+</p>
+
+###### <div align="center"> Abbildung 1: Landsat Satellitenzeitreihe vom Rheinischen Braunkohlerevier für den Zeitraum 1984 - 2020</div>
+
+<br/>
+
+
+<p align="center">
+  <img src="/Satellitenzeireihen/Rheinisches-Braunkohlerevier_321_tcc.gif" width="800" alt="Landsat Satellitenzeitreihe vom Rheinischen Braunkohlerevier"/>
+</p>
+
+###### <div align="center"> Abbildung 1: Landsat Satellitenzeitreihe vom Rheinischen Braunkohlerevier für den Zeitraum 1984 - 2020</div>
 
 
 ---

@@ -97,22 +97,29 @@ GIF Scrubber: https://chrome.google.com/webstore/detail/gif-scrubber/gbdacbnhlfd
 
 ### 2. Erstellen einer Satellitenzeitreihe mit *Streamlit for Geospatial Applications*
 
+Irgendwo muss der Hinweis hin, dass es das nur auf englisch gibt
+
 <br>
 
 Mit [Streamlit for Geospatial Applications](https://streamlit.gishub.org) lassen sich schnell und bequem Satellitenzeitreihen von überall auf der Erde erstellen. 
+Wenn Sie den Link zur Web-Anwendung öffnen (siehe unten) kommen Sie auf die Startseite (siehe Abbildung 3). Wählen Sie im Menü auf der linken Seite die Option "*Create Timelapse*".
+Folgen Sie dem *Demovideo* auf der [Streamlit for Geospatial Applications](https://streamlit.gishub.org) Seite um eine Satellitenzeitreihe Ihres Untersuchungsgebietes zu erstellen.
 
 <br>
 
-###### <div align="center"> Zur Web-Anwendung kommen Sie über diesen Link: </div> <br>
-###### <div align="center"> [Streamlit for Geospatial Applications öffnen](https://streamlit.gishub.org) </div>
+###### <div align="center"> Zur Web-Anwendung kommen Sie über diesen Link: </div>
+
+### <div align="center"> [Streamlit for Geospatial Applications öffnen](https://streamlit.gishub.org) </div>
+
+<br>
 
 <p align="center">
-  <img src="/Bilder/" width="800" alt="Landsat Satellitenzeitreihe vom Rheinischen Braunkohlerevier">
+  <img src="/Bilder/streamlit-geospatial/screen_1_home.PNG" width="800" alt="Landsat Satellitenzeitreihe vom Rheinischen Braunkohlerevier">
 </p>
 
-<br>
+###### <div align="center"> Abbildung 3: Startbildschirm von *Streamlit for Geospatial Applications* </div>
 
-Folgen Sie dem *Demovideo* auf der [Streamlit for Geospatial Applications](https://streamlit.gishub.org) Seite um eine Satellitenzeitreihe Ihres Untersuchungsgebietes zu erstellen.
+
 
 <br>
 

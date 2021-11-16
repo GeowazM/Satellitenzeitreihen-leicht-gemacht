@@ -89,11 +89,12 @@ Ein Videotutorial dazu finden sie hier(!!!).
 
 <br> 
 
-Notiz an mich: 
+## Notiz an mich: 
 - Video wie die Chrome Erweiterung hinzugefügt wird und an dem Rheinischen Braunkohlerevier getestet wird.
 - Irgendwo muss der Hinweis hin, dass es das nur auf englisch gibt
 - Anleitung Erweiterung Google Chrome https://support.google.com/chrome_webstore/answer/2664769?hl=de
 GIF Scrubber: https://chrome.google.com/webstore/detail/gif-scrubber/gbdacbnhlfdlllckelpdkgeklfjfgcmp?hl=en
+- Maßstab in Zeitreihen einfügen
 
 <br>
 

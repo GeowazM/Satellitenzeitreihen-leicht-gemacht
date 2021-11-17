@@ -4,7 +4,7 @@
 
 Hier finden Sie ein Tutorial wie Sie mit *Streamlit for Geospatial Applications* schnell und bequem Satellitenzeitreihen von überall auf der Erde erstellen können. Darüber hinaus erklären wir Ihnen wie Sie mit Hilfe der Browser Erweiterung *GIF Scrubber* diese Satellitenzeitreihen genauer unter die Lupe nehmen können, um den Wandel auf der Erdoberfläche noch besser verstehen zu können.
 <br>
-Ein Beispiel einer solchen Satellitenzeitreihe sehen Sie in Abbildung 1, dass die Veränderungen der Landschaft im Rheinischen Braunkohlerevier zwischen 1984 und 2020 zeigt.
+Ein Beispiel einer solchen Satellitenzeitreihe sehen Sie in Abbildung 1. Sie zeigt die Veränderungen der Landschaft im Rheinischen Braunkohlerevier zwischen 1984 und 2020 zeigt.
 
 <br>
 

@@ -137,29 +137,31 @@ Das Erstellen dieser Zeitreihen ermöglicht die Cloudcomputing Platform [Google 
 
 ### 3. Mit zusätzlichen Bändern den Blick erweitern
 
-Im Unterschied zum menschlichen Auge können Fernerkundungssensoren jedoch über entsprechende Kanäle auch andere Wellenlängenbereiche als das visuelle Spektrum aufnehmen und uns so Informationen liefern, die wir selbst in der Natur nicht sehen können. Kombiniert man diese Bänder im RGB-Farbraum, erhält man ein sogenanntes Falschfarbenbild.
-
 <br/>
 
-Satelliten erfassen die Erdoberfläche in verschiedenen Kanälen für unterschiedliche Bereiche des Lichts. Grünes Licht wird im grünen Kanal, rotes im roten Kanal gespeichert, usw. Satelliten können aber auch Lichtbereiche aufnehmen, die für das menschliche Auge unsichtbar sind. Deshalb gibt es auch Kanäle für z.B. Infrarotlicht (NIR = Nahes Infrarot / IR = Infrarot), auch Wärmestrahlung (thermal) genannt. Am Computer kannst du dir die Kanäle des Satellitenbilds in den Darstellungsfarben eines Monitors, nämlich Rot (R), Grün (G) und Blau (B), anzeigen lassen. Wählst du den roten Kanal für (R), den grünen für (G) und den blauen Kanal für (B) erhältst du ein sog. Echtfarbenbild – die Farben werden so angezeigt, wie es das menschliche Auge gewohnt ist: 
+Satelliten erfassen die Erdoberfläche in verschiedenen Kanälen für unterschiedliche Bereiche des Lichts. Blaues Lict wird im blauen Kanal, grünes Licht im grünen Kanal und rotes Licht im roten Kanal gespeichert. Satelliten können darüber hinaus Lichtbereiche aufnehmen, die für das menschliche Auge unsichtbar sind. Deshalb gibt es Kanäle für z.B. Infrarotlicht (NIR = Nahes Infrarot / IR = Infrarot). Wenn der rote Kanal für (R), den grünen für (G) und den blauen Kanal für (B) zugeordnet wurde erhält ein sog. Echtfarbenbild – die Farben werden so angezeigt, wie es das menschliche Auge gewohnt ist: 
 
 <p align="center">
-  <img src="/Bilder/rgeo_echtfarbenbild.PNG" width="800" alt="Echtfarbenbild">
+  <img src="/Bilder/rgeo_echtfarbenbild.png" width="800" alt="Echtfarbenbild">
 </p>
 
-###### <div align="center"> Abbildung 4: Echtfarbenbild </div>
+###### <div align="center"> Abbildung 4: Zusammenstellung eines Echtfarbenbild </div>
 
 
 Vertauschst du die Farben oder wählst einen Kanal aus, der für das menschliche Auge eigentlich unsichtbar ist, wird ein Falschfarbenbild erzeugt. Die Farben im Satellitenbild sehen dann unnatürlich aus, helfen aber oft zusätzliche Informationen über das abgebildete Gebiet sichtbar zu machen: 
 
 <p align="center">
-  <img src="/Bilder/rgeo_falschfarbenbild.PNG" width="800" alt="Falschfarbenbild">
+  <img src="/Bilder/rgeo_falschfarbenbild.png" width="800" alt="Falschfarbenbild">
 </p>
 
-###### <div align="center"> Abbildung 5: Falschfarbenbild </div>
+###### <div align="center"> Abbildung 5: Zusammenstellung eines Falschfarbenbild </div>
 
+<br/>
 
 So entsteht aus einer Auswahl von fünf verfügbaren Kanälen ein Falschfarbenbild von Bitterfeld. Das Bild sieht ungewohnt aus, dafür erkennt man bestimmte Bildelemente deutlich besser als im Echtfarbenbild. Gesunde Pflanzen reflektieren z.B. sehr stark im Infraroten Licht (NIR). Da dieser Kanal hier in rot dargestellt wird, lässt sich der Zustand von Pflanzen so besser ablesen.
+
+<br/>
+
 
 ---
 

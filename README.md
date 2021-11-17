@@ -9,7 +9,7 @@ Ein Beispiel einer solchen Satellitenzeitreihe sehen Sie in Abbildung 1, dass di
 <br>
 
 <p align="center">
-  <img src="/Satellitenzeireihen/Rheinisches-Braunkohlerevier_321_tcc.gif" width="800" alt="Landsat Satellitenzeitreihe vom Rheinischen Braunkohlerevier"/>
+  <img src="/Anwendungsbeispiele/Deutschland_Rheinisches-Braunkohlerevier//Rheinisches-Braunkohlerevier_321_tcc.gif" width="800" alt="Landsat Satellitenzeitreihe vom Rheinischen Braunkohlerevier"/>
 </p>
 
 ###### <div align="center"> Abbildung 1: Landsat Satellitenzeitreihe vom Rheinischen Braunkohlerevier für den Zeitraum 1984 - 2020</div>
@@ -95,6 +95,8 @@ GIF Scrubber: https://chrome.google.com/webstore/detail/gif-scrubber/gbdacbnhlfd
 - Maßstab in Zeitreihen einfügen
 
 <br>
+<br>
+
 
 ---
 
@@ -127,8 +129,9 @@ Folgen Sie dem *Demovideo* auf der [Streamlit for Geospatial Applications](https
 <br>
 
 Das Erstellen dieser Zeitreihen ermöglicht die Cloudcomputing Platform [Google Earth Engine](https://earthengine.google.com) und die Python Bibliothek [geemap](https://geemap.org/).  Mehr Informationen zu den technischen Hintergründen finden Sie [hier](https://streamlit.gishub.org/).
-<br>
 
+<br>
+<br>
 
 
 
@@ -161,14 +164,36 @@ Vertauschst du die Farben oder wählst einen Kanal aus, der für das menschliche
 So entsteht aus einer Auswahl von fünf verfügbaren Kanälen ein Falschfarbenbild von Bitterfeld. Das Bild sieht ungewohnt aus, dafür erkennt man bestimmte Bildelemente deutlich besser als im Echtfarbenbild. Gesunde Pflanzen reflektieren z.B. sehr stark im Infraroten Licht (NIR). Da dieser Kanal hier in rot dargestellt wird, lässt sich der Zustand von Pflanzen so besser ablesen.
 
 <br/>
+<br>
+
+<p align="center">
+  <img src="/Anwendungsbeispiele/Deutschland_Rheinisches-Braunkohlerevier/Rheinisches-Braunkohlerevier_432_fcc.gif" width="800" alt="Landsat Satellitenzeitreihe vom Rheinischen Braunkohlerevier als Falschfarbenkomposite"/>
+</p>
+
+###### <div align="center"> Abbildung 6: Ein Beispiel einer Zeitreihe in Falschfarbendarstellung vom Rheinischen Braunkohlerevier</div>
+
+<br/>
+<br>
 
 
 ---
 
 
-
 ### 4. Mehr thematische Anwendungsbeispiele
 
+
+Thematische Beispiele:
+
+    - Hydrologie
+    - Energie
+    - Siedlung
+    - Forst
+    - Naturkatastrophen
+    - Polar
+    - Ernährungssicherheit
+
+<br>
+<br>
 <br>
 
 <p align="center">

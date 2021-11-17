@@ -23,11 +23,11 @@ Ein Beispiel einer solchen Satellitenzeitreihe sehen Sie in Abbildung 1. Sie zei
 <br>
 
 
-Überblick
-1. Die Browser Erweiterung *GIF Scrubber* nutzen
-2. Mit *Streamlit Geospatial* Satellitenzeitreihen selber machen
+Mit folgenden Schritten gelangen wir zur Satellitenzeitreihe:
+1. Die Browser Erweiterung *GIF Scrubber* kennen lernen
+2. Mit *Streamlit Geospatial* eine Satellitenzeitreihen selber machen
 3. Mit zusätzlichen Bändern den Blick erweitern
-4. Mehr thematische Anwendungsbeispiele
+4. Mehr thematische Anwendungsbeispiele (optional)
 
 
 <br>

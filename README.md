@@ -144,7 +144,7 @@ Im Unterschied zum menschlichen Auge können Fernerkundungssensoren jedoch über
 Satelliten erfassen die Erdoberfläche in verschiedenen Kanälen für unterschiedliche Bereiche des Lichts. Grünes Licht wird im grünen Kanal, rotes im roten Kanal gespeichert, usw. Satelliten können aber auch Lichtbereiche aufnehmen, die für das menschliche Auge unsichtbar sind. Deshalb gibt es auch Kanäle für z.B. Infrarotlicht (NIR = Nahes Infrarot / IR = Infrarot), auch Wärmestrahlung (thermal) genannt. Am Computer kannst du dir die Kanäle des Satellitenbilds in den Darstellungsfarben eines Monitors, nämlich Rot (R), Grün (G) und Blau (B), anzeigen lassen. Wählst du den roten Kanal für (R), den grünen für (G) und den blauen Kanal für (B) erhältst du ein sog. Echtfarbenbild – die Farben werden so angezeigt, wie es das menschliche Auge gewohnt ist: 
 
 <p align="center">
-  <img src="/Bilder/streamlit-geospatial/screen_1_home.PNG" width="800" alt="Landsat Satellitenzeitreihe vom Rheinischen Braunkohlerevier">
+  <img src="/Bilder/rgeo_echtfarbenbild.PNG" width="800" alt="Echtfarbenbild">
 </p>
 
 ###### <div align="center"> Abbildung 4: Echtfarbenbild </div>
@@ -153,7 +153,7 @@ Satelliten erfassen die Erdoberfläche in verschiedenen Kanälen für unterschie
 Vertauschst du die Farben oder wählst einen Kanal aus, der für das menschliche Auge eigentlich unsichtbar ist, wird ein Falschfarbenbild erzeugt. Die Farben im Satellitenbild sehen dann unnatürlich aus, helfen aber oft zusätzliche Informationen über das abgebildete Gebiet sichtbar zu machen: 
 
 <p align="center">
-  <img src="/Bilder/streamlit-geospatial/screen_1_home.PNG" width="800" alt="Landsat Satellitenzeitreihe vom Rheinischen Braunkohlerevier">
+  <img src="/Bilder/rgeo_falschfarbenbild.PNG" width="800" alt="Falschfarbenbild">
 </p>
 
 ###### <div align="center"> Abbildung 5: Falschfarbenbild </div>

@@ -137,8 +137,29 @@ Das Erstellen dieser Zeitreihen ermöglicht die Cloudcomputing Platform [Google 
 
 ### 3. Mit zusätzlichen Bändern den Blick erweitern
 
+Im Unterschied zum menschlichen Auge können Fernerkundungssensoren jedoch über entsprechende Kanäle auch andere Wellenlängenbereiche als das visuelle Spektrum aufnehmen und uns so Informationen liefern, die wir selbst in der Natur nicht sehen können. Kombiniert man diese Bänder im RGB-Farbraum, erhält man ein sogenanntes Falschfarbenbild.
 
 <br/>
+
+Satelliten erfassen die Erdoberfläche in verschiedenen Kanälen für unterschiedliche Bereiche des Lichts. Grünes Licht wird im grünen Kanal, rotes im roten Kanal gespeichert, usw. Satelliten können aber auch Lichtbereiche aufnehmen, die für das menschliche Auge unsichtbar sind. Deshalb gibt es auch Kanäle für z.B. Infrarotlicht (NIR = Nahes Infrarot / IR = Infrarot), auch Wärmestrahlung (thermal) genannt. Am Computer kannst du dir die Kanäle des Satellitenbilds in den Darstellungsfarben eines Monitors, nämlich Rot (R), Grün (G) und Blau (B), anzeigen lassen. Wählst du den roten Kanal für (R), den grünen für (G) und den blauen Kanal für (B) erhältst du ein sog. Echtfarbenbild – die Farben werden so angezeigt, wie es das menschliche Auge gewohnt ist: 
+
+<p align="center">
+  <img src="/Bilder/streamlit-geospatial/screen_1_home.PNG" width="800" alt="Landsat Satellitenzeitreihe vom Rheinischen Braunkohlerevier">
+</p>
+
+###### <div align="center"> Abbildung 4: Echtfarbenbild </div>
+
+
+Vertauschst du die Farben oder wählst einen Kanal aus, der für das menschliche Auge eigentlich unsichtbar ist, wird ein Falschfarbenbild erzeugt. Die Farben im Satellitenbild sehen dann unnatürlich aus, helfen aber oft zusätzliche Informationen über das abgebildete Gebiet sichtbar zu machen: 
+
+<p align="center">
+  <img src="/Bilder/streamlit-geospatial/screen_1_home.PNG" width="800" alt="Landsat Satellitenzeitreihe vom Rheinischen Braunkohlerevier">
+</p>
+
+###### <div align="center"> Abbildung 5: Falschfarbenbild </div>
+
+
+So entsteht aus einer Auswahl von fünf verfügbaren Kanälen ein Falschfarbenbild von Bitterfeld. Das Bild sieht ungewohnt aus, dafür erkennt man bestimmte Bildelemente deutlich besser als im Echtfarbenbild. Gesunde Pflanzen reflektieren z.B. sehr stark im Infraroten Licht (NIR). Da dieser Kanal hier in rot dargestellt wird, lässt sich der Zustand von Pflanzen so besser ablesen.
 
 ---
 

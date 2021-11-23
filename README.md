@@ -197,10 +197,10 @@ Thematische Beispiele:
 <br>
 
 <p align="center">
-  <img src="/Anwendungsbeispiele/USA_Las_Vegas/las_vegas_432_fcc.gif" width="600" alt="Landsat Satellitenzeitreihe von Dubai"/>
+  <img src="/Anwendungsbeispiele/USA_Las_Vegas/las_vegas_432_fcc.gif" width="800" alt="Landsat Satellitenzeitreihe von Las Vegas, USA"/>
 </p>
 
-###### <div align="center"> Abbildung ???: Landsat Satellitenzeitreihe von Las Vegas</div>
+###### <div align="center"> Abbildung ???: Landsat Satellitenzeitreihe von Las Vegas, USA</div>
 
 <br>
 

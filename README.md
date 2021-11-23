@@ -197,6 +197,14 @@ Thematische Beispiele:
 <br>
 
 <p align="center">
+  <img src="/Anwendungsbeispiele/USA_Las_Vegas/las_vegas_432_fcc.gif" width="600" alt="Landsat Satellitenzeitreihe von Dubai"/>
+</p>
+
+###### <div align="center"> Abbildung ???: Landsat Satellitenzeitreihe von Las Vegas</div>
+
+<br>
+
+<p align="center">
   <img src="/Anwendungsbeispiele/Iran_Urmiasee/Lake-Urmia_543.gif" width="500" alt="Landsat Satellitenzeitreihe vom Urmiasee"/>
 </p>
 
@@ -212,11 +220,7 @@ Thematische Beispiele:
 
 <br>
 
-<p align="center">
-  <img src="/Anwendungsbeispiele/UAE_Dubai/Dubai-small_432_fcc.gif" width="600" alt="Landsat Satellitenzeitreihe von Dubai"/>
-</p>
 
-###### <div align="center"> Abbildung ???: Landsat Satellitenzeitreihe von Dubai</div>
 
 
 

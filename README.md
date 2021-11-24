@@ -83,10 +83,6 @@ Es öffnet sich ein neues Fenster, in dem Sie die Satellitenzeitreihe kontrollie
 
 <br> 
 
-Ein Videotutorial dazu finden sie hier(!!!).
-
-<br> 
-
 
 <br>
 

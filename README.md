@@ -180,15 +180,16 @@ So entsteht aus einer Auswahl von fünf verfügbaren Kanälen ein Falschfarbenbi
   <img src="/Anwendungsbeispiele/USA_Las_Vegas/las_vegas_432_fcc.gif" width="800" alt="Landsat Satellitenzeitreihe von Las Vegas, USA"/>
 </p>
 
-###### <div align="center"> Abbildung ???: Landsat Satellitenzeitreihe von Las Vegas, USA</div>
+###### <div align="center"> Abbildung 7: Landsat Satellitenzeitreihe von Las Vegas, USA</div>
 
+<br>
 <br>
 
 <p align="center">
   <img src="/Anwendungsbeispiele/Iran_Urmiasee/Lake-Urmia_543.gif" width="500" alt="Landsat Satellitenzeitreihe vom Urmiasee"/>
 </p>
 
-###### <div align="center"> Abbildung ???: Landsat Satellitenzeitreihe vom Urmiasee im Nordsosten des Irans für den Zeitraum 1984 - 2020</div>
+###### <div align="center"> Abbildung 8: Landsat Satellitenzeitreihe vom Urmiasee im Nordsosten des Irans für den Zeitraum 1984 - 2020</div>
 
 <br>
 <br>
@@ -197,7 +198,7 @@ So entsteht aus einer Auswahl von fünf verfügbaren Kanälen ein Falschfarbenbi
   <img src="/Anwendungsbeispiele/Schweiz_Grosse-Aletschgletscher/Aletsch_654.gif" width="500" alt="Landsat Satellitenzeitreihe vom Grossen Aletschgletscher"/>
 </p>
 
-###### <div align="center"> Abbildung ???: Landsat Satellitenzeitreihe vom Grossen Aletschgletscher</div>
+###### <div align="center"> Abbildung 9: Landsat Satellitenzeitreihe vom Grossen Aletschgletscher</div>
 
 <br>
 

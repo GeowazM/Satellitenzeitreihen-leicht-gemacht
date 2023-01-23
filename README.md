@@ -204,12 +204,3 @@ So entsteht aus einer Auswahl von fünf verfügbaren Kanälen ein Falschfarbenbi
 
 
 
-
-
----
-
-<div align="center">
-<img src="/Bilder/rgeo_unesco-chair_uni-hd_v2.jpg" width="750" alt="rgeo Heidelberg University of Education"/>
-</div>
-
-
